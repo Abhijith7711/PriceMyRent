@@ -1,6 +1,6 @@
 # 🏡 PriceMyHouseRent
-
-PriceMyHouseRent is a **machine learning-based web application** that helps users estimate the rent price of a house in various cities based on multiple features like area, number of bedrooms,number of bathrooms, seller type,city  It is built using **Random Forest Regressor** for predictions and **Streamlit** for the user interface.
+Try the app here [PriceMyHouseRent](https://pricemyrent.streamlit.app/)<br/><br/>
+PriceMyHouseRent is a **machine learning-based web application** that helps users estimate the rent price of a house in various cities based on multiple features like area, number of bedrooms,number of bathrooms, seller type  It is built using **Random Forest Regressor** for predictions and **Streamlit** for the user interface.
 
 ---
 
